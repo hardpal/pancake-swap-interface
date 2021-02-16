@@ -42,6 +42,14 @@
       "logoURI": "/images/coins/BTC.png"
     },
     {
+      "name": "Hardpal Token",
+      "symbol": "HRP",
+      "address": "0x1884247a574a0ac08874493850b7dba2ef063a4b",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/hrp.png"
+    },    
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
